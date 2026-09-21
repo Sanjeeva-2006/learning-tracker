@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sanjeeva-2006.github.io/learning-tracker/sitemap.xml
